@@ -1,13 +1,8 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is my quick node bounty submission.
+the contract address is below.
 
-Try running some of the following tasks:
+0x0F0c34648C2CCfa10DFAa6430eD0bcCba3B1d1Be
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
